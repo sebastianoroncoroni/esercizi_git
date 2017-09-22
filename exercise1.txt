@@ -1,4 +1,3 @@
 This should be the first input.
 And now I add another piece of valuable information.
 Now I add a very difficult exercise.
-This is a second error.
